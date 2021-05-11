@@ -7,7 +7,7 @@ I'm Deepak Jaiswal, I have completed my graduation(B.tech (C.S.E) at The ICFAI U
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Linux World
+- 🔭 I’m currently working on ...??
 - 🌱 I’m currently learning ...something
 - 👯 I’m looking to collaborate on ...job
 - 🤔 I’m looking for help with ...AWS and Data Science

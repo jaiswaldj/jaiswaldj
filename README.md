@@ -1,8 +1,7 @@
 ### Hi there 👋,
 I'm Deepak Jaiswal, I have completed my graduation(B.tech (C.S.E) at The ICFAI University Dehradun. 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DeepakJ68943515?color=1DA1F2&logo=Twitter&style=social)
-<img src="https://img.shields.io/badge/linkedin/deepakjaiswaldj/?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 
 Here are some ideas to get you started:

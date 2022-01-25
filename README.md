@@ -6,9 +6,7 @@ I'm Deepak Jaiswal, I have completed my graduation(B.tech (C.S.E) at The ICFAI U
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...??
-- 🌱 I’m currently learning ...something
-- 👯 I’m looking to collaborate on ...job
+- 🔭 I’m currently working on Integra Micro Software Service
 - 🤔 I’m looking for help with ...Software Engineer
 - 💬 Ask me about ...anything and everything
 - 📫 How to reach me: ...message me 9793893742

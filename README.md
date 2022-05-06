@@ -1,13 +1,12 @@
 ### Hi there 👋,
-I'm Deepak Jaiswal, I have completed my graduation(B.tech (C.S.E) at The ICFAI University Dehradun. 
+I'm Deepak Jaiswal, I have completed my graduation(B.tech 2019(C.S.E)) at The ICFAI University Dehradun. 
 
 
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Integra Micro Software Service
-- 🤔 I’m looking for help with ...Software Engineer
+- 🔭 I’m currently working in Integra Micro Software Service as a DevOps Engineer
 - 💬 Ask me about ...anything and everything
 - 📫 How to reach me: ...message me 9793893742
 - 😄 Pronouns: ... He/Him

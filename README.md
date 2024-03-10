@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Lenskart as a DevOps Engineer
 - 💬 Ask me about ...anything and everything
-- 📫 How to reach me: ...message me 9793893742
+- 📫 How to reach me: ...message me jaiswaldj96@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I love having new connections, and also I love to Travel eat Food! and explore new places
 -->
